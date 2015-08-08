@@ -1,0 +1,8 @@
+~*
+*~
+*.swp
+*.swo
+*.pyc
+venv_poocho/
+db.sqlite3
+
